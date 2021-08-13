@@ -6,7 +6,8 @@ A responsive chatbox was also implemented as a part of the project to assist use
 
 **Overview**
 
-![I-Commerce](https://user-images.githubusercontent.com/88004212/129420382-c4ae0f2d-660d-483d-a296-445b4c5501ed.gif)
+![I_Commerce](https://user-images.githubusercontent.com/88004212/129422985-a9ab047d-4cc3-497e-9500-f27dcc0b12fa.gif)
+
 
 **Skeleton**
 
